@@ -1,4 +1,4 @@
-const Annotations = require('../models/annotationData');
+const Annotations = require('./AnnotationData');
 
 // exporta as funções necessárias para operar o banco como o controlador
 module.exports = {

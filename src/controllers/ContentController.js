@@ -1,4 +1,4 @@
-const Annotations = require('../models/annotationData');
+const Annotations = require('./AnnotationData');
 
 module.exports = {
     async update(req, res) {
